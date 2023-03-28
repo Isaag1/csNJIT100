@@ -41,6 +41,7 @@ A radar speed gun is a device used in law-enforcement to measure the speed of mo
 Unfortunately, due to an intermittent fault, occasionally multiple numbers are written on a single line as
 follows:
 - 73.2 65.6 69.8
+
 Furthermore, occasionally the radar gun outputs a single stray character such as: 67.9z, 6$4.9, or a3.9, to
 illustrate just a few.
 Given a file that has radar speed gun readings, write a function
