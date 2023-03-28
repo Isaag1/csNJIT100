@@ -24,7 +24,7 @@ Implement the GuessNumber game. In this game, the computer
 - After 5 incorrect guesses, tell the user the right answer.
 The following is an example of correct input and output.
 I'm thinking of a number in the range 0-50. You have five tries to guess it.
-Guess 1? 32
+Guess 1? 32 
 32 is too high
 Guess 2? 18
 18 is too low
