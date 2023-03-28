@@ -10,7 +10,7 @@ Write a function named file_stats that takes one string parameter (in_file) that
 - lines 2
 - words 13
 - characters 72
-# Problem 3
+# Problem 3                                                                                                                                                                             
 Write a function named repeat_words that takes two string parameters:
 1. in_file: the name of an input file that exists before repeat_words is called
 2. out_file: the name of an output file that repeat_words creates
