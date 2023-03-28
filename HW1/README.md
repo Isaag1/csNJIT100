@@ -14,10 +14,10 @@ HW 01, January 17, 2018
 Exercise 5b
 months = 12
 
-# has three assignment lines, each of which creates a variable (object) with a meaningful name and assigns it a float value. Example:
+# Has three assignment lines, each of which creates a variable (object) with a meaningful name and assigns it a float value. Example:
 Exercise 5c
 height = 7.63
-# has three assignment lines, each of which creates a string variable with a meaningful name. Example:
+# Has three assignment lines, each of which creates a string variable with a meaningful name. Example:
 Exercise 5d
 speaksParseltongue = 'Harry Potter'
 # Do textbook exercises: 1.1, 1.2, 2.1, and 2.2
