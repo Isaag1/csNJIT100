@@ -1,7 +1,7 @@
 """
 Isaac Guerrero
 CS 100 Section 015
-HW08,November 7, 2021
+HW10,November 12, 2021
 """
 #1
 def initialLetterCount(wordList):
