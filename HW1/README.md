@@ -10,7 +10,7 @@ Harry Houdini
 CS 100 2018S Section 004
 HW 01, January 17, 2018
 
-# has three assignment lines, each of which creates a variable (object) with a meaningful name and assigns it an int value. Example:
+# Has three assignment lines, each of which creates a variable (object) with a meaningful name and assigns it an int value. Example:
 Exercise 5b
 months = 12
 
