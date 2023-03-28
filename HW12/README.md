@@ -37,6 +37,7 @@ A radar speed gun is a device used in law-enforcement to measure the speed of mo
 - 65.6
 - 70.2
 - 54.9
+
 Unfortunately, due to an intermittent fault, occasionally multiple numbers are written on a single line as
 follows:
 - 73.2 65.6 69.8
